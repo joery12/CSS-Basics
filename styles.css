@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body{
+    color:black;
+    font-family: "Times New Roman", Times, serif, "Open Sans";
+    background-color: rgb(197,199,196);
+}
+
+.black_border{
+    border:2px solid black;
+}
+
+#green_background{
+    background-color: rgb(94, 79, 134);
+}
+
+.font_bold{
+    font-weight:100;
+    font-family: "Open Sans";
+    font-size: 12px;
+}
+
+.link_color{
+    color:darkslategray
+}
